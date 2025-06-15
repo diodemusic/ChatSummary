@@ -1,0 +1,8 @@
+discord.py            # or chosen library
+sentence-transformers
+transformers          # if using local summarization
+torch                 # if needed for local model
+scikit-learn          # for clustering or other ML utils
+hdbscan               # if using BERTopic
+umap-learn            # if using BERTopic
+python-dotenv         # for local .env management
